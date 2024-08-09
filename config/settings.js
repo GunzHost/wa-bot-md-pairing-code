@@ -46,12 +46,12 @@ module.exports = {
     key: 'Your-API-key' // Register here: https://daniapi.biz.id/#sign-up
   },
   bot: {
-    name: 'Your Bot Name',
+    name: 'Sumanto',
     profile_status: 'Bot aktif hingga kiamat or 24/7'
   },
   owner: {
     name: ["Your Name"],
-    number: ["628xxx"]
+    number: ["6283825516896"]
   },
   daily_limit: {
     free: 25,
